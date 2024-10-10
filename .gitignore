@@ -7,4 +7,5 @@ week1.csv
 /assignment1/gifs
 /assignment1/pics
 /assignment1/venv
-
+*.stl
+*.3mf
