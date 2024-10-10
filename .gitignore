@@ -1,11 +1,10 @@
-/venv/
-/pics
 *.png
 CTD_template.pptx
 *.gif
 week1.csv
-/frames1
-/frames2
-/frames3
 *.3dm
 *.3dmbak
+/assignment1/gifs
+/assignment1/pics
+/assignment1/venv
+
