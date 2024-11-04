@@ -1,0 +1,87 @@
+CTD Practice Quiz 2 (Lesson 3 and 4)
+Q1: binomial_coefficient(10, 4)
+Q2: 2,4,1,5,8
+1| total = 0
+2| n = 13
+3| for i in range(n):
+4| 	total = total + i
+5| print(total)
+
+Q3: 1, 5, 12, 3
+1| total = 0
+2| for i in range(1, 12, 2):
+3| 	total =  total + i
+4| print(total)
+
+OR
+
+2, 6, 12, 3
+1| total = 1
+2| for i in range(3, 12, 2):
+3|	total = total + i
+4| print(total)
+
+Q4: 1, 7, 8, 10, 19, 3
+1| total = 0
+2| for n in range(10):
+3| 	up = n**3 + 3*n + 5
+4|	down = n**2 + 1
+5|	total = total + (up/down)
+6| print(total)
+
+Q5: A, C, D, G
+Q6: 
+x_list = list(range(-1,6,1)): Generate a list of integer x
+for loop: Calculate y coordinates
+plt.plot(...): Produce a line plot
+plt.xlabel(): Label x axis
+plt.ylabel(): Label y axis
+plt.title(): Give title to the plot
+plt.show(): Display the figure
+
+Q7:
+Line A: counter = 2
+Condition B: counter < 15
+Line C: counter = counter + 3
+
+Q8: 
+a) 3, 1, 5, 9
+1| n = len(ls)
+2| for i in range(n):
+3|	if ls[i]%2 == 0:
+4|		print(ls[i])
+
+b) 3, 2, 1, 11, 13
+1| n = len(ls)
+2| total = 0
+3| for i in range(n):
+4|	total = total + ls[i]
+5| print(total)
+
+c) 3, 2, 1, 5, 12, 13
+1| n = len(ls)
+2| total = 0
+3| for i in range(n)
+4|	if ls[i]%2 == 0:
+5| 		total = total + ls[i]
+6| print(total)
+
+Q9: s[5:18:3]
+Q10: 
+Blank A: print(i)
+Blank B: print(i)
+
+Q11:
+A: sum(ls) < n
+B: is_sum_less(a, 5)
+C: False
+
+Q12: 
+a)
+Blank A: first.title() (Author's note: .capitalize() works too, but qn wants title)
+Blank B: last.upper()
+Blank C: Donald DUCK
+
+Q13:
+Blank A: ls[-1]
+Blank B: sss(b)

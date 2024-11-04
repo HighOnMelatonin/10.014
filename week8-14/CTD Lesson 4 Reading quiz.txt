@@ -1,0 +1,53 @@
+CTD Lesson 4 Reading quiz
+Q1: 
+a = 'bintang'
+a = '''bintang'''
+a = "bintang"
+a = """bintang"""
+Q2: LukeSkywalker
+Q3: a[8:13]
+Q4:
+1. print(a[2])
+2. print(len(a))
+3. print(a[-1])
+4. b = 2*a
+5. a = a + ", Luke"
+6. b = a[:]
+7. b = a
+8. print(len(a[0]))
+
+Q5:
+P: d
+Q: c
+R: a
+Q6:
+-----------------------
+old string: it's a trap
+new string: it's a wrap
+-----------------------
+Q7:
+list
+5 elements
+"me"
+Q8:
+my_tuple = (1,2,3)
+my_tuple = 1,2,3
+Q9:
+A: {:d}
+B: {:s}
+Q10:
+A: title
+B: c.isupper()
+Q11: tr
+Q12: python!!!
+Q13: A: 5, B: 7, C: 9, D: 4
+Q14: 
+Blank A: print(i)
+Blank B: print(mystring[i])
+Q15: 1,6,3,4,5,2
+1|s = "The Quick Brown Fox"
+2|result = ""
+3|for c in s:
+4|  if c.isupper():
+5|    result = result + c
+6|print(result)

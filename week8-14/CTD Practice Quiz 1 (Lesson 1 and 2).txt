@@ -1,0 +1,68 @@
+CTD Practice Quiz 1 (Lesson 1 and 2)
+Q1:
+A: return round(v/vo, 2)
+B: input
+C: float(speed)
+D: get_mach_number(speed)
+E: print("Mach Number:", mach_number)
+
+Q2: 
+x = 20.75
+y = 15
+z = 6.75
+
+Q3:
+a	b	c
+9	6	undefined
+9	6	24
+9	30	24
+
+Q4: 1,3,4
+
+Q5: 
+def beefcut(imf):
+	if (imf >= 43):
+		grade = 'A5'
+	elif (imf >= 36):
+		grade = 'A4'
+	elif (imf >= 21):
+		grade = 'A3'
+	else:
+		grade = 'Other'
+	return grade
+
+Q6: "range(6)
+Q7:
+a >= 25
+----
+is_even
+True
+----
+
+Q8: 
+turtle.Turtle()
+t.right(90)
+t.left(90)
+2
+
+Q9: Don't copy (choose the options)
+Blank A: t < 5
+Blank B: t < 8
+
+Q10: 
+-----
+10
+None
+-----
+
+Q11: 1,3,5,6,8,9
+1| is_student = True
+2| if (is_student):
+3| 	fee = 10
+4| else:
+5| 	fee = 30
+6| print("Your admission fee is", fee)
+
+Q12: polynomial(4)
+Q13: return n%2 == 0 and n > 0
+

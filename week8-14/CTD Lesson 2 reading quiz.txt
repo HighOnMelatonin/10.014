@@ -1,0 +1,28 @@
+CTD Lesson 2 reading quiz
+Q1: math.cos(radians)
+Q2: from math import sqrt + from math import *
+Q3: def draw_circle(t):
+Q4: 1. the name of the function is print_lame_joke. 2. lines 2 and 3 form the function definition, after all errors in the script are fixed
+3. The statement at line 3 needs to be indented to enable this script to be run. 4. the function print_lame_joke is only executed when the statement at line 5 is run
+Q5: You should not have any statement in a function after the return statement. The function stops executing after the return statement
+Q6: Line 4
+Q7: 23
+Q8: Line 6: My name is Naruto, Line 8: My name is Naruto. (newline)None
+Q9: FALSE TRUE
+Q10: c
+Q11: Sequence:
+1. Line 1 executed
+2. Execution divert to line 5
+3. Line 5 executed with argument of 2
+4. Execution diverted to line 1
+5. Execution of function body begins
+6. 3*p is executed
+7. Value of out is returned and assigned to a
+
+Q12: line 2, line 4, line 5, line 7
+Q13: a = int(float('4'))
+Q14: 1. Only expression 1 is evaluated, 2. true is displayed on the screen
+Q15: 2,1,4,3
+Q16: Code Block 1: is_even = n%2 == 0
+Code Block 2: if (is_even): ...
+Q17: NameError occurs

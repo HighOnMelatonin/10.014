@@ -1,0 +1,36 @@
+CTD Lesson 5 Reading Quiz
+Q1:
+1. a = dict()
+2. a = {}
+3. a = {(1,2): "hello", (0,0): "world"}
+4. a = {1.1: "hello", 1.2: "world"}
+Q2: dd[5]
+Q3: dd[7] = 3
+Q4: dd[6] = 7
+Q5: 3
+Q6: 
+1. in python 3.7 and above the key-value pairs in a dictionary are arranged in the order they were inserted
+2. in CTD, you are required to ignore the order (treat dictionary as unordered)
+Q7: 6
+Q8: 18
+Q9: elephant
+Q10: item_sold["fruits"][1]
+Q11:
+A: key
+B: dd[key]
+C: dd.items()
+Q12: False True
+Q13: 
+Line 9: NameError
+Line 10: KeyError
+Line 11: TypeError
+Q14: 
+A: None
+B: 4
+Q15: d.update
+Q16: 51342
+1|electricity = {'Jan': 121, 'Feb': 115, 'Mar': 124, 'Apr': 111, 'May': 113,'Jun': 134}
+2|total = 0
+3|for month in electricity:
+4|	total = total + electricity[month]
+5|print(total)

@@ -1,0 +1,58 @@
+CTD Practice Quiz 3 (Lesson 5 and 6)
+Q1:
+A: dd[4]
+B: dd[3]
+
+Q2: dd[11][1]
+
+Q3:
+A: opera_performance['composer']
+B: opera_performance['cast']['Santuzza']
+
+Q4: 
+a) 2, 4, 9
+1| for month in electricity:
+2|	if electricity[month] > 120:
+3|		print(month)
+
+b) 1, 4, 6, 11, 13, 17
+1| category = {'high': 0, 'low': 0}
+2| for month in electricity:
+3|	if electricity[month] > 120:
+4|		category[high] += 1
+5|	else:
+6|		category[low] += 1
+
+Q5: 2 + 3 + 0 + 1
+Q6:
+-------
+0
+0 1
+0 1 2
+0 1 2 3
+--------
+
+Q7: aababaabab
+Q8: 
+1. ls = [0,1,2,3]
+2. ls = [3,2,1,0]
+
+Q9: 
+A: 40
+B: 99
+
+Q10: {2:34}
+Q11:
+1. print(len(line))
+2. print(len(line.keys()))
+3. for loop
+
+Q12: dd[7] = 3
+Q13: 
+1. [1,2,3,0,5] and [1,2,3,0,5]
+2. a and b point to the same list in memory
+3. executing (a is b), True will be displayed
+4. function modify has modified the list a in-place
+
+Q14: print(b in dd[a])
+

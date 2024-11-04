@@ -1,0 +1,27 @@
+CTD Lesson 7 (OOP) Reading quiz
+Q1: 
+1. a = {3,4,5}
+2. a = set()
+Q2: True
+Q3: 
+1. thickness of the line
+2. heading
+3. current position
+4. shape
+Q4: True
+Q5: 
+forward(): command method
+position(): query method
+setheading(): command method
+heading(): query method
+Q6: [Instantiation] is the process of creating an [object] from a class definition
+Q7: 3
+Q8: 
+A: a.real
+B: b.imag
+C: c = a.conjugate()
+Q9: Pokemon("pikachu", 100)
+Q10: Coords(3,4)
+Q11: __init__() method only
+Q12: point.get_distance()
+Q13: class ConvenienceStore:...
